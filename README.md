@@ -1,11 +1,22 @@
-## 🌟 GitHub Stats
+# 👋 Olá, eu sou João Vitor Vieira
 
-<div align="center">
+💻 Estudante de Ciência da Computação
+🚀 Focado em evoluir na área de tecnologia
+🎯 Buscando minha primeira oportunidade em TI
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jvjvkeke&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent)
+---
 
-</div>
+<img width="100%" src="https://i.imgur.com/your-banner.png" />
+
+---
+
+## 🧠 Sobre mim
+
+Sou um estudante em constante evolução, apaixonado por tecnologia e programação.
+Atualmente estou focado em desenvolver minha lógica e construir projetos práticos.
+
+---
+
 ## 🚀 Tecnologias
 
 <div align="center">
@@ -15,4 +26,37 @@
 
 </div>
 
-<img width="100%" src="https://as1.ftcdn.net/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" />
+---
+
+## 📚 Atualmente estudando
+
+* Lógica de Programação
+* Linguagem C
+* Python
+
+---
+
+## 🌟 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jvjvkeke\&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvjvkeke\&layout=compact\&theme=transparent)
+
+</div>
+
+---
+
+## 📈 Objetivo
+
+Crescer na área de tecnologia, conquistar minha primeira oportunidade como desenvolvedor e evoluir constantemente.
+
+---
+
+## 📫 Contato
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
