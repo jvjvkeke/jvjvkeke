@@ -15,4 +15,4 @@
 
 </div>
 
-<img width="100%" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000004fb0720eb8c9327f468e96bb&ts=493031&p=fs&cid=1&sig=983ed7a2b181158bd3709bfa99fe045465d9f6cad455f5428e568427988acbf3&v=0" />
+<img width="100%" src="https://as1.ftcdn.net/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg" />
