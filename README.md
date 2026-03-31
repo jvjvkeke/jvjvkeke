@@ -1,12 +1,9 @@
 # 👋 Olá, eu sou João Vitor Vieira
+<img width="1700" height="460" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/84ea86a4-33d5-456d-96ae-90bab4b61540" />
 
 💻 Estudante de Ciência da Computação
 🚀 Focado em evoluir na área de tecnologia
 🎯 Buscando minha primeira oportunidade em TI
-
----
-
-<img width="100%" src="https://i.imgur.com/your-banner.png" />
 
 ---
 
