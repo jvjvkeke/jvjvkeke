@@ -55,7 +55,7 @@ Crescer na área de tecnologia, conquistar minha primeira oportunidade como dese
 
 ## 📫 Contato
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/jvjvkeke/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
