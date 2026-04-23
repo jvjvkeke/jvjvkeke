@@ -20,7 +20,6 @@ Atualmente estou focado em desenvolver minha lógica e construir projetos práti
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" />
 <img width="40" alt="image" src="https://github.com/user-attachments/assets/738dd03f-36a2-48f3-a13b-355aac2c16a6" />
 
 
